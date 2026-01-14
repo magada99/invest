@@ -1,2 +1,2 @@
 # invest
-suhyeon's investment
+investment
